@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/dicagno/dotcom-v2-site.git/
+    url: https://content.da.live/dicagno/dotcom-v2-site/
     type: markup
